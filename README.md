@@ -19,11 +19,7 @@ Link Carpeta en drive: https://drive.google.com/drive/folders/1kQWuDFqF--8d1WRxz
 
 
 
-
-
-
-
-Link video:
+Link video: https://drive.google.com/file/d/1UgQ_B-kpM24LNNElI_HTsA4zWtRn8LJ1/view?usp=sharing
 
 
 
