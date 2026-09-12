@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Agencia de Viajes</string>
+
+    <!-- Login -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_link">¿No tienes cuenta? Regístrate</string>
+    <string name="login_link">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="login_subtitulo">Accede a tu cuenta de agente</string>
+    <string name="register_subtitulo">Crea una cuenta para gestionar destinos</string>
+
+    <string name="bienvenido">Bienvenido</string>
+    <string name="mis_destinos">Mis Destinos</string>
+    <string name="precio_label_corto">Precio</string>
+    <string name="usuario_icono">Ícono de usuario</string>
+    <string name="ver_detalle">Ver detalle</string>
+
+    <!-- Formulario Destino -->
+    <string name="destino_nombre_hint">Nombre del destino</string>
+    <string name="destino_pais_label">País</string>
+    <string name="destino_precio_hint">Precio del paquete</string>
+    <string name="destino_descripcion_hint">Descripción del viaje</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="guardar_destino">Guardar Destino</string>
+    <string name="actualizar_destino">Actualizar Destino</string>
+    <string name="titulo_registrar">Registrar Nuevo Destino</string>
+    <string name="titulo_editar">Editar Destino</string>
+
+    <!-- Catálogo -->
+    <string name="catalogo_title">Catálogo de Destinos</string>
+    <string name="precio_label">Precio: $%s</string>
+    <string name="btn_agregar_destino">+ Agregar Destino</string>
+
+    <!-- Errores -->
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_precio_invalido">El precio debe ser mayor a 0</string>
+    <string name="error_descripcion_corta">La descripción debe tener mínimo 20 caracteres</string>
+    <string name="error_imagen_requerida">Debes seleccionar una imagen</string>
+    <string name="error_pais_requerido">Debes seleccionar un país</string>
+    <string name="error_email_invalido">Ingresa un correo válido</string>
+    <string name="error_password_debil">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_password_no_coincide">Las contraseñas no coinciden</string>
+    <string name="error_credenciales_invalidas">Correo o contraseña incorrectos</string>
+    <string name="error_usuario_no_existe">No existe una cuenta con ese correo</string>
+    <string name="error_email_registrado">Este correo ya está registrado</string>
+    <string name="error_desconocido">Ocurrió un error inesperado</string>
+    <string name="error_sin_conexion">Sin conexión a internet</string>
+    <string name="error_subir_imagen">No se pudo subir la imagen</string>
+
+    <!-- Diálogos -->
+    <string name="confirmar_eliminacion_titulo">Confirmar eliminación</string>
+    <string name="confirmar_eliminacion_mensaje">¿Estás seguro de eliminar el destino «%s»?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="cerrar_sesion_titulo">Cerrar sesión</string>
+    <string name="cerrar_sesion_mensaje">¿Deseas cerrar la sesión actual?</string>
+
+    <!-- Loading -->
+    <string name="loading_guardando">Guardando...</string>
+    <string name="loading_subiendo_imagen">Subiendo imagen...</string>
+    <string name="loading_iniciando_sesion">Iniciando sesión...</string>
+    <string name="loading_creando_cuenta">Creando cuenta...</string>
+
+    <!-- Éxito -->
+    <string name="registro_exitoso">¡Cuenta creada exitosamente!</string>
+    <string name="destino_guardado">Destino guardado exitosamente</string>
+    <string name="destino_actualizado">Destino actualizado</string>
+    <string name="destino_eliminado">Destino eliminado</string>
+
+    <string name="catalogo_vacio">No hay destinos registrados aún.\n¡Agrega el primero!</string>
+    <string name="imagen_destino">Imagen del destino</string>
+
+    <!-- Array de países -->
+    <string-array name="countries_array">
+        <item>Selecciona un país</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Canadá</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Estados Unidos</item>
+        <item>Francia</item>
+        <item>El Salvador</item>
+        <item>México</item>
+    </string-array>
+</resources>

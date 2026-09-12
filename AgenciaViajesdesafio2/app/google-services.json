@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89914295563",
+    "project_id": "agenciaviajes-56609",
+    "storage_bucket": "agenciaviajes-56609.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89914295563:android:56af763ce9a2a1c0fdce0e",
+        "android_client_info": {
+          "package_name": "com.example.agenciaviajes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXAQjTbcmrarDDgsXes7qrulpCapUd9EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
